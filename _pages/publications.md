@@ -1,9 +1,8 @@
 
+
 ---
-layout: single
-title: "Publications"
 permalink: /publications/
-author_profile: true
+title: "Publications"
 ---
 
 ## Peer-Reviewed Publications
