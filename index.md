@@ -5,17 +5,13 @@ author_profile: true
 permalink: /
 ---
 
-<p>
 I am a PhD student at the University of Colorado Boulder
 studying evolutionary genomics and the genetic basis
 of complex mimicry in freshwater mussels.
-</p>
 
-<h2>Research Interests</h2>
+## Research Interests
 
-<ul>
-  <li>Evolutionary genomics</li>
-  <li>Freshwater mussel biodiversity</li>
-  <li>Genetic architecture of phenotypic variation</li>
-  <li>Evolution of aggressive mimicry</li>
-</ul>
+- Evolutionary genomics
+- Freshwater mussel biodiversity
+- Genetic architecture of phenotypic variation
+- Evolution of aggressive mimicry
