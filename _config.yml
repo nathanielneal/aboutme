@@ -55,13 +55,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nathaniel Neal"
-  avatar : "/assets/images/IMG_5224.jpeg"
-  bio    : "PhD student at the University of Colorado, Boulder"
+  name: "Nathaniel Neal"
+  avatar: "/assets/images/IMG_5224.jpeg"
+  bio: "PhD student at the University of Colorado Boulder"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
