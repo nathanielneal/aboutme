@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Nathaniel Neal"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "PhD student at the University of Colorado, Boulder studying the genetic basis of complex lures in freshwater mussels."
+  bio    : "PhD student at the University of Colorado, Boulder"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
