@@ -8,10 +8,10 @@ classes: wide
 
 You can view my CV below or download a PDF copy.
 
-[**Download CV (PDF)**](/assets/pdf/Nathaniel_Neal_CV.pdf){: .btn .btn--primary download="Nathaniel_Neal_CV.pdf" }
+[**Download CV (PDF)**](/assets/pdf/Neal_CV.pdf){: .btn .btn--primary download="Neal_CV.pdf" }
 
 <iframe
-  src="/assets/pdf/Nathaniel_Neal_CV.pdf"
+  src="/assets/pdf/Neal_CV.pdf"
   width="100%"
   height="1000px"
   style="border: none;"
