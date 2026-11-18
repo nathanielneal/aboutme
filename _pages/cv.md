@@ -4,7 +4,7 @@ title: "CV"
 classes: wide
 ---
 
-## Curriculum Vitae (November 2026)
+## Most recent version (November 2026)
 
 You can view my CV below or download a PDF copy.
 
