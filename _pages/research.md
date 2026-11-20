@@ -6,7 +6,7 @@ classes: wide
 
 ## Evolutionary Genomics of Freshwater Mussels
 
-My research focuses on understanding the genetic basis and evolution of complex mimicry in freshwater mussels. I am particularly interested in how genomic variation contributes to the remarkable diversity of mantle lure morphologies found throughout the tribe Lampsilini.
+My research focuses on understanding the genetic basis and evolution of complex lures in freshwater mussels. I am particularly interested in how genomic variation contributes to the remarkable diversity of mantle lure morphologies found throughout the tribe Lampsilini.
 
 ## The Evolution of Aggressive Mimicry
 
