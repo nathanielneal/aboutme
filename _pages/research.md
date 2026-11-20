@@ -1,8 +1,7 @@
 
 ---
-layout: single
-title: "Research"
 permalink: /research/
+title: "Research"
 classes: wide
 ---
 
